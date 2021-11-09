@@ -1,15 +1,15 @@
 {
-  "name": "react-native-ble-manager",
+  "name": "react-native-ble-manager-foxbith",
   "version": "7.6.3",
-  "description": "A BLE module for react native.",
+  "description": "A BLE module for react native. Fix",
   "main": "BleManager",
   "types": "./index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/innoveit/react-native-ble-manager.git"
+    "url": "https://github.com/Foxbith/react-native-ble-manager-foxbith.git"
   },
   "bugs": {
-    "url": "https://github.com/innoveit/react-native-ble-manager/issues"
+    "url": "https://github.com/Foxbith/react-native-ble-manager-foxbith.git"
   },
   "keywords": [
     "react-native",
@@ -21,8 +21,8 @@
   ],
   "license": "Apache-2.0",
   "author": {
-    "name": "Innove",
-    "url": "https://github.com/innoveit"
+    "name": "Foxbith",
+    "url": "https://github.com/Foxbith"
   },
   "scripts": {
     "version": "git add -A",
