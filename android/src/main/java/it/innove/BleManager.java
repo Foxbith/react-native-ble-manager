@@ -564,6 +564,7 @@ class BleManager extends ReactContextBaseJavaModule {
                 if (bondRequest != null && bondRequest.uuid.equals(bluetoothDevice.getAddress()) && bondRequest.pin != null) {
                     bluetoothDevice.setPin(bondRequest.pin.getBytes());
                     bluetoothDevice.createBond();
+                    abortBroadcast();
                 }
             }
 
