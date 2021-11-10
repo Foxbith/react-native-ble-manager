@@ -1,7 +1,7 @@
 {
   "name": "react-native-ble-manager-foxbith",
-  "version": "7.6.3",
-  "description": "A BLE module for react native. Fix",
+  "version": "7.6.4",
+  "description": "A BLE module for react native. Fix abortBroadcast createBond android",
   "main": "BleManager",
   "types": "./index.d.ts",
   "repository": {
